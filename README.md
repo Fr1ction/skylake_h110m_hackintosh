@@ -3,7 +3,4 @@ i3-6100 + ECS H110M EFI Tree (Monterey Support)
 
 Fill your own SMBIOS before booting this EFI
 
-Not Working :
-
--Sleep
--DRM
+Not Working : Sleep and DRM Media Playback
